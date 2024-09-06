@@ -35,6 +35,7 @@
       ```
 
    ## GUI
-   ![image](https://github.com/manav-chan/AspireNex/assets/71835184/1296ab46-0bf6-418e-b089-4c5569c23c06)
-   ![image](https://github.com/manav-chan/AspireNex/assets/71835184/319566c8-a25c-43a7-b9eb-62cefdb0491b)
+![Screenshot from 2024-07-10 19-40-34](https://github.com/user-attachments/assets/066f0f94-baba-4117-bf14-0c4d1815d388)
+![Screenshot from 2024-07-10 19-41-42](https://github.com/user-attachments/assets/36b01bcb-3a16-43b4-b379-23c62ef29385)
+
 
