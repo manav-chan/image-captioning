@@ -12,7 +12,8 @@
    - BLEU-1 score of 0.546282 and BLEU-2 score of 0.320683 are considered reasonably good scores. For state-of-the-art models, BLEU-1 scores can often be in the range of 0.6 to 0.7, and BLEU-2 scores can be around 0.4 to 0.5 or higher.
    
    ## Model Architecture
-   ![model](https://github.com/manav-chan/AspireNex/assets/71835184/2df41241-fe5e-49b3-97ea-c8d984793c52)
+ 
+![model](https://github.com/user-attachments/assets/5df370bb-1fcd-4b8d-8b21-af4ce51930f6)
 
    ## How to use?
    1. Clone this repository, navigate into the repository.
